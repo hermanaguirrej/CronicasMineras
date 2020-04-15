@@ -1,0 +1,11 @@
+---
+title: "Crónicas Mineras"
+author: "Jaime Sepúlveda y Herman Aguirre"
+date: "15/04/2020"
+output: bookdown::gitbook
+site: bookdown::bookdown_site
+---
+
+# Prólogo
+
+{Podemos solicitar a alguien importante que haga el prólo}

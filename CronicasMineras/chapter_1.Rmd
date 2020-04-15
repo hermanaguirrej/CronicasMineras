@@ -1,0 +1,44 @@
+# La Batalla por los $500.000 en la industria minera
+
+Al momento de escribir esta columna (enero, 2020), el conflicto social que vive Chile aun no acaba y parece no tener indicios de término en el corto plazo. Esta situación de malestar social, que reventó el 18 de octubre de 2019, ha reconfigurado las agendas políticas, sociales y económicas de los diversos sectores del país.
+
+Pocos días después de liberado el conflicto, el 22 de octubre, el presidente Sebastián Piñera sorprendió con el anuncio de una agenda social que incluía – entre otras medidas – mejoras en materia de pensiones, beneficios en salud y mejora de condiciones salariales. Es en este último punto donde destaca un subsidio estatal para aumentar el salario bruto mínimo mensual de $ 301,000 (o un salario neto mensual de $ 249,830) a $ 350,000 (o un salario neto mensual de $ 290,500).
+
+No existe una forma consensuada de medir la negativa o positiva recepción de los anuncios, pero sin duda el paquete de soluciones no aminoró el descontento de una gran parte de la población, la que siguió manifestándose de manera numerosa en diversas zonas del país.
+
+Los titulares, noticieros, opiniones y comentarios sobre este episodio han sido gobernados por las violaciones a los derechos humanos y el nivel de violencia en las calles, siendo políticamente incorrecto no referirse a ellos o al menos hacer una breve mención. No obstante, el motivo central de esta columna es detenernos y reflexionar sobre los anuncios y propuestas encasillados en el mundo económico, particularmente a la minería, delineados por parte de actores públicos-políticos como por entes privado-productivos.
+
+Con este contexto de fondo, el sector privado, especialmente algunas compañías mineras como Antofagasta Minerals (AMSA) y BHP tomaron la iniciativa en diciembre de 2019, comprometiendo un aumento del salario bruto para aquellos trabajadores de sus empresas contratistas y subcontratistas a partir de enero de 2020.
+
+AMSA, por ejemplo, anunció un nuevo piso para el salario bruto mínimo mensual de $500,000 (o un salario neto mensual de $415,000), el cual, hasta diciembre de 2019, era de $436,000 (o un salario neto mensual de $361,888). Este incremento en el salario bruto mensual de $ 64,000 beneficiará a cerca de 3,200 trabajadores permanentes de sus empresas contratistas y subcontratistas tanto en su casa matriz como en faenas Centinela, Zaldivar, Antucoya y Los Pelambres.
+
+Esta medida que ascenderá a unos $2,457,600,000 (1) (o unos ~$ 3.24 millones de dólares a precio del 6 de enero (2) de 2020), significa un incremento en el costo (3) de la compañía de tan solo $ 0.20 centavos de dólar por libra de cobre para una producción en 2020 de 725,000 a 755,000 toneladas de cobre (4) [3].
+
+Cuando un nuevo piso salarial es adoptado voluntariamente por una compañía, es difícil argumentar que su implementación causará destrucción de empleos (5), debido a que la decisión de los empleadores está dentro de un marco que consideran que es asequible para ellos (6). Además, esta decisión traerá aparejado el fortalecimiento del compromiso entre ambas partes (empleador - trabajador), descartando la premisa de que los trabajadores de bajos salarios son prescindibles.
+
+Es interesante destacar que, un salario adoptado voluntariamente por los empleadores sobre la base de lo que consideran correcto pagar puede considerarse como un piso salarial que anularía una negociación del mercado.
+
+
+
+## Notas de los Autores
+(1) Cálculo estimado: 3,200 trabajadores x $64,000 x 12 meses.
+
+(2) El dólar observado para este lunes 6 de enero tiene un valor de $758,49.
+
+(3) Dado que este incremento incluye casa matriz (i.e., costos corporativos), este costo corresponde a un proxy del AISC (All-in-Sustaining Cost) de CRU.
+
+(4) Cobre pagable.
+
+(5) En el corto plazo, un aumento del salario real podría causar desempleo. Sin embargo, los autores son conscientes de que es difícil interpretar cualquier evidencia que sugiera un efecto adverso en el empleo debido al aumento de los salarios ya que podrían existir muchos otros factores externos impactándolo.
+
+(6) Esto indicaría que estos aumentos en las remuneraciones son inferiores los incrementos en productividad marginal, de otra forma, la compañía tendría un incentivo para reducir el número de trabajadores hasta ajustar el total de sus salarios reales a su productividad.
+
+ 
+
+## Referencias
+[1] https://www.aminerals.cl/comunicaciones/noticias/2019/recuento-cluster-minero-ingreso-etico/
+
+[2] https://www.df.cl/noticias/empresas/mineria/bhp-anuncia-que-pagara-un-sueldo-minimo-de-500-000-a-contratistas-y/2019-12-11/181604.html
+
+[3] https://www.antofagasta.co.uk/investors/news/2019/quarterly-production-report-q3-2019/
+
